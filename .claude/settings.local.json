@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/aivisvigo/AndroidStudioProjects/Shimmer/app/src -type f \\\\\\( -name \"*.kt\" -o -name \"*.java\" \\\\\\) 2>/dev/null | grep -v build)"
+    ]
+  }
+}
